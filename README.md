@@ -1,6 +1,6 @@
 # Sistema Bancário em Python
 
-Bem-vindo ao **Sistema Bancário em Python**, um projeto desenvolvido para simular operações bancárias completas utilizando a linguagem de programação Python. Este sistema é ideal para quem está aprendendo programação e deseja compreender como implementar funcionalidades essenciais de um sistema financeiro, incluindo gestão de usuários e contas.
+Bem-vindo ao **Sistema Bancário em Python**, um projeto desenvolvido para simular operações bancárias completas utilizando a linguagem de programação Python.
 
 ## Sumário
 
@@ -14,12 +14,7 @@ Bem-vindo ao **Sistema Bancário em Python**, um projeto desenvolvido para simul
   - [Nova Conta](#nova-conta)
   - [Listar Contas](#listar-contas)
 - [Como Usar](#como-usar)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Autor](#autor)
-- [Licença](#licença)
-- [Contato](#contato)
-- [Agradecimentos](#agradecimentos)
-- [Histórico de Versões](#histórico-de-versões)
 
 ## Descrição
 
@@ -85,3 +80,7 @@ A funcionalidade de **Listar Contas** exibe uma lista de todas as contas bancár
 - **Agência**: Número da agência bancária.
 - **C/C**: Número da conta corrente.
 - **Titular**: Nome do usuário associado à conta.
+
+## Autor
+
+Este projeto foi desenvolvido por Samuel Batista, baseado nas orientações do tutor Guilherme Arthur de Carvalho (@decarvalhogui). Sinta-se à vontade para entrar em contato ou contribuir com melhorias!
